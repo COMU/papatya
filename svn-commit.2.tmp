@@ -1,0 +1,19 @@
+
+--This line, and those below, will be ignored--
+
+A    Clementine
+AM   Clementine/.clementine.py.swo
+A    Clementine/web.py
+A    Clementine/images
+AM   Clementine/images/prev.png
+AM   Clementine/images/pause.png
+AM   Clementine/images/next.png
+AM   Clementine/images/up.png
+AM   Clementine/images/stop.png
+AM   Clementine/images/play.png
+AM   Clementine/images/down.png
+AM   Clementine/http.py
+AM   Clementine/style.css
+AM   Clementine/clementine.py
+A    Clementine/README
+AM   Clementine/.clementine.py.swn
