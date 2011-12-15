@@ -1,0 +1,24 @@
+body {
+	background-color: lightgreen;
+	margin: 0px;
+	text-align: center;
+	color: white;
+}
+.cover {
+	padding-top: 10px;
+	margin: 0px;
+	width: 80%;
+	
+	max-width: 300px;
+	
+}
+.info {
+	margin: 0px;
+}
+.artist {
+	font-weight: bold;
+}
+
+.cbutton img {
+	width: 45px;
+}
